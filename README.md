@@ -1,212 +1,121 @@
 # Olá, eu sou o Marcos Felipe! 👋
 
-### 💻 Ciência da Computação | Suporte Técnico N1/N2 | Python, Dados, Automação e IA Aplicada
+### 💻 Estudante de Ciência da Computação | Python, Dados e IA Aplicada | Background em Suporte de TI Hospitalar
 
-Sou estudante de **Ciência da Computação**, com experiência prática em **suporte técnico N1/N2 em ambiente hospitalar crítico**, atendimento a usuários, chamados, SLAs, inventário de TI, documentação operacional e suporte presencial/remoto.
+Construo **sistemas de IA local-first** — assistentes de voz, motores de análise e ferramentas de produtividade que rodam 100% na máquina do usuário, com privacidade por design. Minha base vem do suporte técnico N1/N2 em ambiente hospitalar crítico, onde aprendi na prática que sistemas precisam ser confiáveis, documentados e resilientes.
 
-Atualmente, estou evoluindo minha carreira para unir minha base em operação de TI com **Python, análise de dados, automação, BI e IA aplicada**.
+**O que me diferencia:** experiência real em operação de TI crítica + projetos de dados e IA com código organizado, documentação clara e honestidade sobre limitações.
 
-Meu foco é construir projetos práticos que resolvem problemas reais, com código organizado, documentação clara e tecnologias usadas de forma honesta e defensável.
-
----
-
-## 🎯 Objetivo profissional
-
-Busco oportunidades em:
-
-- Suporte Técnico / Field Service / Service Desk
-- Estágio em Tecnologia
-- Dados / BI
-- Automação com Python
-- IA aplicada e Engenharia de Dados em formação
-
-Minha estratégia profissional é combinar experiência operacional em TI com projetos de **dados, automação e inteligência artificial aplicada**.
+🎯 **Buscando:** estágio ou posição júnior em **Dados, Automação com Python ou IA aplicada** — e aberto a oportunidades de Suporte Técnico/Service Desk onde possa aplicar automação.
 
 ---
 
 ## 🛠️ Stack Principal
 
-### Linguagens, dados e automação
+**Linguagens e dados:**
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel/VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-### Python para dados
-
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel/VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-### IA, aplicações e APIs
+**IA, aplicações e APIs:**
 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 
-### Ferramentas
+**Ferramentas:**
 
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
 ---
-
 ## 🚀 Projetos em destaque
 
-### 📈 [Sentinela B3](https://github.com/Marcos-Felipe-dos-Santos/Sentinela-B3) — Análise de ações e FIIs com Python
+### 🧠 [Personal Intelligence Engine (PIE)](https://github.com/Marcos-Felipe-dos-Santos/personal-intelligence-engine)
 
-Aplicação em Python para análise educacional de ativos da B3, com foco em indicadores, valuation, análise técnica, persistência local e apoio à tomada de decisão.
+Motor local-first de conhecimento pessoal: captura texto não estruturado, extrai dados estruturados com validação Pydantic, persiste em SQLite e projeta notas Markdown e relatórios com trilha de auditoria completa.
 
-**Stack:** Python · Streamlit · SQLite · Pandas · Plotly · pytest
+**Stack:** Python · Pydantic · SQLite · Click · GitHub Actions (CI)
 
-**Destaques:**
-
-- Interface web com Streamlit
-- Análise de ações e FIIs
-- Indicadores fundamentalistas e técnicos
-- Persistência local com SQLite
-- Organização modular por engines
-- Testes automatizados
-- Projeto em evolução contínua
-
-**Aprendizado demonstrado:** análise de dados, organização de código, persistência local, testes, documentação técnica e construção de produto analítico.
+O meu projeto com práticas de engenharia mais maduras: **CI rodando testes a cada push, arquitetura em camadas (domain/services/adapters/repositories), migrations versionadas e mais de 10 documentos de decisão técnica** (arquitetura, modelo de dados, privacidade, roadmap).
 
 ---
 
-### 🤖 [Nina IA](https://github.com/Marcos-Felipe-dos-Santos/Nina-IA) — Assistente local-first com IA aplicada
+### 🤖 [Nina IA](https://github.com/Marcos-Felipe-dos-Santos/Nina-IA)
 
-Projeto experimental de assistente local-first com foco em voz, memória semântica, RAG, agentes, dashboard e integração com modelos locais/API.
+Assistente de voz local-first: ouve (WhisperX + VAD), pensa (Llama 3 via Ollama ou Gemini), lembra com memória semântica permanente (RAG com ChromaDB), executa ações no PC, enxerga a tela e responde por voz em pt-BR — com dashboard em tempo real.
 
-**Stack:** Python · Ollama/Gemini · ChromaDB · WhisperX · Kokoro TTS · FastAPI · Streamlit
+**Stack:** Python · Ollama/Gemini · ChromaDB · WhisperX · Kokoro TTS · FastAPI + WebSocket
 
-**Destaques:**
-
-- Arquitetura modular
-- Estudos com LLMs locais e APIs
-- Memória semântica com banco vetorial
-- Pipeline de voz e texto
-- Dashboard para acompanhamento
-- Base para estudos de agentes e IA multimodal
-
-**Status:** projeto em desenvolvimento, usado como laboratório de IA aplicada, automação local e arquitetura modular.
-
-**Aprendizado demonstrado:** LLMs, RAG, integração de modelos, automação local, organização de sistemas e experimentação com IA multimodal.
+Pipeline completo de voz: STT, detecção de atividade de voz, busca vetorial, function calling, visão multimodal e síntese de voz, orquestrados de forma assíncrona.
 
 ---
 
-### 🎙️ [Podcast AI](https://github.com/Marcos-Felipe-dos-Santos/Podcast-AI) — Pipeline de notícias para áudio com IA
+### 📈 [Sentinela B3](https://github.com/Marcos-Felipe-dos-Santos/Sentinela-B3)
 
-Pipeline em Python para coletar notícias, gerar roteiro com LLM, converter texto em áudio com TTS e enviar o resultado via Telegram.
+Plataforma de análise fundamentalista educacional para ações e FIIs da B3: combina 4 metodologias clássicas de valuation (Graham, Bazin, Lynch, Gordon), análise técnica, comparação setorial e otimização de carteira por Markowitz.
 
-**Stack:** Python · Groq · Kokoro TTS · Streamlit · Telegram Bot API · RSS/DDGS
+**Stack:** Python · Streamlit · SQLite · Pandas · yfinance
 
-**Destaques:**
-
-- Coleta de notícias por RSS/busca
-- Geração de roteiro com LLM
-- Conversão de texto em áudio
-- Envio automatizado via Telegram
-- Interface em Streamlit para controle do fluxo
-
-**Aprendizado demonstrado:** automação ponta a ponta, integração de APIs, geração de conteúdo com IA e orquestração de pipeline.
+Destaque técnico: tratamento defensivo de dados inconsistentes de mercado (normalização de DY, detecção de tickers em situação especial) documentado no código. *Projeto educacional — não é recomendação de investimento.*
 
 ---
 
-### 📊 [Imersão Dados Alura](https://github.com/Marcos-Felipe-dos-Santos/Imers-o-Dados-Python-Alura) — Análise exploratória de dados
+### 🛡️ [RPG Master Shield](https://github.com/Marcos-Felipe-dos-Santos/rpg-master-shield)
 
-Projeto de estudo em análise exploratória de dados com Python, Pandas, visualizações e interpretação de informações a partir de dataset estruturado.
+App full-stack local-first para mestres de RPG: notas Markdown com wiki-links e backlinks, mapas com pins, relógios de ameaça, rastreamento de facções e rolador de dados seguro (regex, sem eval).
 
-**Stack:** Python · Pandas · Matplotlib · Jupyter Notebook
+**Stack:** FastAPI · SQLModel · SQLite · React · TypeScript · TailwindCSS
 
-**Destaques:**
-
-- Limpeza e exploração de dados
-- Análises estatísticas iniciais
-- Visualizações com Matplotlib
-- Prática de storytelling com dados
-
-**Aprendizado demonstrado:** fundamentos de análise de dados, manipulação de datasets e comunicação de insights.
+**117 testes automatizados (pytest)**, decisões de arquitetura registradas em ADRs e escopo de MVP definido com limitações documentadas.
 
 ---
 
-### 🧾 [Agente IR](https://github.com/Marcos-Felipe-dos-Santos/Agente_IR) — Sistema local para apoio fiscal
+### 🎙️ [Podcast AI](https://github.com/Marcos-Felipe-dos-Santos/Podcast-AI)
 
-Projeto local-first para organização e análise de informações fiscais, com backend em Python, frontend web e apoio de LLM local.
+Pipeline autônomo de notícias para áudio: coleta artigos (RSS curado + busca dinâmica), gera roteiro com LLM (Groq/Llama 3.1), sintetiza voz localmente (Kokoro TTS) e entrega o episódio via Telegram.
 
-**Stack:** Python · FastAPI · SQLAlchemy · React/Vite · Ollama · ReportLab
+**Stack:** Python · Groq · Kokoro TTS · feedparser · Telegram Bot API · Streamlit
 
-**Destaques:**
-
-- Backend com FastAPI
-- Frontend com React/Vite
-- Processamento de documentos
-- Organização de dados fiscais
-- Geração de relatórios
-- Uso de LLM local como apoio consultivo
-
-**Observação:** projeto educacional e experimental. Não substitui contador, validação profissional ou sistemas oficiais.
-
-**Aprendizado demonstrado:** arquitetura full-stack, processamento de dados, privacidade local, testes e integração com LLM.
+Foco em resiliência: retry com backoff exponencial, validação de configuração com mensagens de erro claras e gestão de limites de contexto do LLM.
 
 ---
 
-## 💼 Experiência prática em TI
+### 🧾 [Agente IR](https://github.com/Marcos-Felipe-dos-Santos/Agente_IR)
 
-Tenho experiência em suporte técnico em ambiente hospitalar crítico, com atuação em:
+Sistema local-first de apoio à declaração de IRPF: parser de PDFs (informes bancários, holerites, notas de corretagem), motor de cálculo de renda variável (preço médio, compensação de prejuízos, isenções) e LLM local como apoio consultivo — nenhum dado financeiro sai da máquina.
 
-- Atendimento a usuários e resolução de chamados
-- Suporte presencial e remoto
-- Service Desk / Field Service
-- Controle e inventário de ativos de TI
-- Documentação de procedimentos operacionais
-- Apoio a sistemas críticos
-- Automações com Excel/VBA e Python
-- Relatórios e cruzamento de dados para apoio operacional
+**Stack:** Python · FastAPI · SQLAlchemy · React/Vite · Ollama · pdfplumber · ReportLab
 
-Essa experiência me deu uma base prática forte em resolução de problemas, comunicação com usuários, documentação e melhoria de processos.
+*Projeto educacional e experimental — não substitui contador ou os sistemas oficiais da Receita Federal.*
 
 ---
 
-## 📚 Atualmente estudando
+## 💼 Experiência em TI
 
-- Python aplicado a dados e automação
-- SQL e modelagem de dados
-- Power BI e visualização de dados
-- Engenharia de Dados em formação
-- LLMs, RAG e agentes de IA
-- FastAPI e aplicações Python
-- Testes automatizados e boas práticas de Git/GitHub
+**Suporte Técnico N1/N2 — ambiente hospitalar crítico**
+
+Atendimento e resolução de chamados com SLA, suporte presencial e remoto a sistemas críticos, inventário de ativos, documentação de procedimentos operacionais e **automações com Excel/VBA e Python** para relatórios e cruzamento de dados.
+
+Essa vivência em operação crítica é o que levo para os meus projetos: confiabilidade, tratamento de erros, logs e documentação não são opcionais quando um sistema não pode parar.
 
 ---
 
-## 📌 Como estou organizando meu portfólio
+## 📚 Estudando agora
 
-Meus projetos públicos são organizados para demonstrar:
-
-- Capacidade de resolver problemas reais
-- Clareza de documentação
-- Evolução técnica contínua
-- Uso prático de Python
-- Integração entre suporte, dados, automação e IA
-- Honestidade sobre limitações e próximos passos
+Engenharia de Dados · SQL e modelagem · LLMs, RAG e agentes · Testes automatizados e CI/CD · Power BI
 
 ---
 
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcos%20Felipe%20dos%20Santos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-felipe-dos-santos)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Marcos--Felipe--dos--Santos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Marcos-Felipe-dos-Santos)
-
 [![Email](https://img.shields.io/badge/Email-marcosfelipedossantos%40hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcosfelipedossantos@hotmail.com)
-
----
-
-### Aberto a oportunidades
-
-Suporte Técnico · Field Service · Service Desk · Estágio em Tecnologia · Dados · BI · Automação com Python · IA aplicada
