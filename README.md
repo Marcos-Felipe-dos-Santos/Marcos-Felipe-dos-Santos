@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════  HEADER  ═══════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7F5AF0&height=140&section=header&text=Marcos%20Felipe&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=IA%20Local-First%20%C2%B7%20Dados%20%C2%B7%20Automa%C3%A7%C3%A3o&descAlignY=60&descSize=16&animation=fadeIn" alt="Marcos Felipe" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7F5AF0&height=140&section=header&text=Marcos%20Felipe&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Dados%20%C2%B7%20BI%20%C2%B7%20Automa%C3%A7%C3%A3o&descAlignY=60&descSize=16&animation=fadeIn" alt="Marcos Felipe" />
 
 <div align="center">
 
@@ -7,7 +7,7 @@
 <a href="README.en.md"><img src="https://img.shields.io/badge/🇺🇸_English-read_in_English-7F5AF0?style=flat-square" alt="English" /></a>
 
 <a href="https://github.com/Marcos-Felipe-dos-Santos">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=580&lines=Ol%C3%A1%2C+eu+sou+o+Marcos+Felipe+%F0%9F%91%8B;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Service+Desk+%40+Callix;IA+Local-First+%C2%B7+RAG+%C2%B7+Agentes;Python+%C2%B7+TypeScript+%C2%B7+SQL;De+S%C3%A3o+Paulo+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=580&lines=Ol%C3%A1%2C+eu+sou+o+Marcos+Felipe+%F0%9F%91%8B;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Service+Desk+%40+Callix;Dados+%C2%B7+BI+%C2%B7+Automa%C3%A7%C3%A3o;Python+%C2%B7+SQL+%C2%B7+Power+BI;De+S%C3%A3o+Paulo+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -31,14 +31,14 @@
 <a href="https://f1-fantasy-sala.marcosfeliperigoto.workers.dev/">jogue agora →</a>
 </td>
 <td align="center" width="25%">
-<h2>🧪 1.400+</h2>
+<h2>🧪 2.900+</h2>
 <b>testes automatizados</b><br/>
 <sub>Vitest + pytest</sub>
 </td>
 <td align="center" width="25%">
-<h2>🤖 7</h2>
+<h2>🤖 12</h2>
 <b>projetos públicos</b><br/>
-<sub>IA local, dados, jogos</sub>
+<sub>dados, automação, IA</sub>
 </td>
 <td align="center" width="25%">
 <h2>🏥 3+</h2>
@@ -52,19 +52,15 @@
 
 ## ⚡ Sobre mim
 
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=Marcos-Felipe-dos-Santos&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=10" alt="GitHub Stats" />
+Estudante de **Ciência da Computação** com experiência em **suporte técnico crítico** e foco em **dados, BI e automação**. Hoje estou no suporte da **Callix** — plataforma brasileira de call center na nuvem usada por **mais de 800 empresas**, com **+15 milhões de chamadas e mensagens por dia**.
 
-Estudante de **Ciência da Computação** com experiência em **suporte técnico crítico** e paixão por **IA aplicada, automação e dados**. Hoje estou no time de **Service Desk da Callix** — plataforma de contact center na nuvem com mais de **1 bilhão de chamadas processadas**.
+Construo projetos com **dados reais** em Python, SQL e TypeScript: pipelines com dados oficiais da CVM, B3 e Banco Central, extração de dados de PDFs financeiros, automações e aplicações com IA local.
 
-Construo projetos **local-first** com Python e TypeScript: assistentes de voz com RAG, motores de análise financeira, jogos de simulação determinística e ferramentas de produtividade com IA.
-
-- 🔭 Foco atual: **IA local, RAG e agentes**
-- 🌱 Estudando: **Engenharia de Dados** e **TypeScript avançado**
+- 🔭 Foco atual: **Análise de Dados, BI e Automação**
+- 🌱 Estudando: **SQL avançado**, **Power BI (modelagem e DAX)** e **Engenharia de Dados**
 - 🤖 Pair programming com **Claude Code** — a IA escreve código mais rápido; **arquitetura, domínio e testes são decisões minhas**
 
 > 💡 **Princípio:** sistemas precisam ser confiáveis, documentados e resilientes — aprendido na prática em TI hospitalar, onde um sistema não pode parar.
-
-<br clear="right"/>
 
 ---
 
@@ -98,35 +94,6 @@ Construo projetos **local-first** com Python e TypeScript: assistentes de voz co
 <tr>
 <td valign="top" width="50%">
 
-### 🏎️ [Paddock Draft](https://github.com/Marcos-Felipe-dos-Santos/F1-fantasy)
-
-<a href="https://f1-fantasy-sala.marcosfeliperigoto.workers.dev/"><img src="https://img.shields.io/badge/🎮_JOGAR_AGORA-online_e_gratuito-E10600?style=for-the-badge" alt="Jogar agora" /></a>
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
-
-Jogo de **draft e simulação de Fórmula 1** no navegador. Monte um "carro frankenstein" com peças de **76 temporadas (1950–2025)** e dispute um campeonato **online com até 22 amigos**.
-
-<details>
-<summary><b>🔧 Destaques técnicos</b></summary>
-<br/>
-
-- **Multiplayer em produção** com Cloudflare Workers + Durable Objects
-- Tokens de reconexão, handshake de versão e **detector de divergência** entre clientes
-- Engine **100% determinística** — zero `Math.random()`, tudo via RNG semeado (sobrevive a reinícios do servidor)
-- **1094 testes** com Vitest + **testes de mutação**
-- **771 combinações** de equipe/ano a partir de dados reais (API Jolpica-F1)
-- **Balance harness** próprio para simulação em massa
-
-</details>
-
-`Em produção` · `Até 22 jogadores` · `Campeonato em 5 etapas`
-
-</td>
-<td valign="top" width="50%">
-
 ### 📈 [Sentinela B3](https://github.com/Marcos-Felipe-dos-Santos/Sentinela-B3)
 
 ![Python](https://img.shields.io/badge/Python_3.13-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -149,6 +116,35 @@ Análise de **ações e FIIs da B3** com dados oficiais da CVM, 4 métodos clás
 </details>
 
 `255 testes` · `Educacional, não é recomendação`
+
+</td>
+<td valign="top" width="50%">
+
+### 🏎️ [Paddock Draft](https://github.com/Marcos-Felipe-dos-Santos/F1-fantasy)
+
+<a href="https://f1-fantasy-sala.marcosfeliperigoto.workers.dev/"><img src="https://img.shields.io/badge/🎮_JOGAR_AGORA-online_e_gratuito-E10600?style=for-the-badge" alt="Jogar agora" /></a>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+
+Jogo de **draft e simulação de Fórmula 1** no navegador. Monte um "carro frankenstein" com peças de **76 temporadas (1950–2025)** e dispute um campeonato **online com até 22 amigos**.
+
+<details>
+<summary><b>🔧 Destaques técnicos</b></summary>
+<br/>
+
+- **Multiplayer em produção** com Cloudflare Workers + Durable Objects
+- Tokens de reconexão, handshake de versão e **detector de divergência** entre clientes
+- Engine **100% determinística** — zero `Math.random()`, tudo via RNG semeado (sobrevive a reinícios do servidor)
+- **2.358 + 48 testes** com Vitest + **testes de mutação**
+- **771 combinações** de equipe/ano a partir de dados reais (API Jolpica-F1)
+- **Balance harness** próprio para simulação em massa
+
+</details>
+
+`Em produção` · `Até 22 jogadores` · `Campeonato em 5 etapas`
 
 </td>
 </tr>
@@ -290,6 +286,13 @@ Apoio **local-first** à declaração de IRPF: lê PDFs (notas de corretagem, in
 
 ---
 
+### ➕ Mais projetos
+
+- 🚇 [MetrôBot SP](https://github.com/Marcos-Felipe-dos-Santos/Metr-Bot-SP) — planejador de rotas do Metrô de SP com BFS/DFS, lógica de primeira ordem e narração por LLM · `146 testes`
+- ⚽ [placar-futebol](https://github.com/Marcos-Felipe-dos-Santos/placar-futebol) — placar ao vivo desenhado para caber em 100 requisições de API por dia (Cloudflare Worker + KV)
+
+---
+
 ## 🧩 Por dentro da Nina IA
 
 Como uma frase falada vira uma resposta por voz — tudo rodando **na minha máquina, sem nuvem**:
@@ -306,7 +309,7 @@ Como uma frase falada vira uma resposta por voz — tudo rodando **na minha máq
 <summary><b>🟢 Callix · Service Desk</b> &nbsp;—&nbsp; <code>Jun 2025 – Presente</code></summary>
 <br/>
 
-Plataforma SaaS de **contact center na nuvem** (voz, WhatsApp, SMS) com **+1 bilhão de chamadas processadas**.
+Plataforma brasileira de **call center na nuvem** (Voz, Discador, WhatsApp oficial e URA Reversa) usada por **+800 empresas**, com **+15 milhões de chamadas e mensagens por dia**.
 
 - Atendimento N1/N2 a usuários da plataforma
 - Suporte a VoIP, canais omnichannel e sistemas SaaS
@@ -333,21 +336,6 @@ Suporte em **ambiente hospitalar crítico** (Hospital Albert Einstein).
 
 ## 📊 Atividade
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Felipe-dos-Santos&layout=compact&theme=tokyonight&langs_count=6&hide_border=true&border_radius=10" alt="Linguagens mais usadas" />
-<img height="170" src="https://streak-stats.demolab.com?user=Marcos-Felipe-dos-Santos&theme=tokyonight&locale=pt_BR&hide_border=true&border_radius=10" alt="GitHub Streak" />
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Marcos-Felipe-dos-Santos/Marcos-Felipe-dos-Santos/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Marcos-Felipe-dos-Santos/Marcos-Felipe-dos-Santos/output/github-snake.svg" />
-  <img alt="Cobrinha comendo minhas contribuições" src="https://raw.githubusercontent.com/Marcos-Felipe-dos-Santos/Marcos-Felipe-dos-Santos/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
 <details>
 <summary><b>⚡ O que estou fazendo agora</b> <sub>(atualizado automaticamente)</sub></summary>
 <br/>
@@ -368,12 +356,11 @@ Suporte em **ambiente hospitalar crítico** (Hospital Albert Einstein).
 
 ### 📫 Vamos conversar?
 
-Aberto a conversas sobre **Dados, IA e automação**.
+Aberto a conversas sobre **Dados, BI e Automação**.
 
 <a href="https://www.linkedin.com/in/marcos-felipe-dos-santos/"><img src="https://img.shields.io/badge/LinkedIn-Marcos_Felipe-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:marcosfelipedossantos@hotmail.com"><img src="https://img.shields.io/badge/Email-marcosfelipedossantos%40hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=Marcos-Felipe-dos-Santos&label=Visitas+ao+perfil&color=00D9FF&style=flat-square" alt="Visitas ao perfil" />
 
 </div>
 
