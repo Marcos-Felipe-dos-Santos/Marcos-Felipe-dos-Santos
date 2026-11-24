@@ -31,7 +31,7 @@
 <a href="https://f1-fantasy-sala.marcosfeliperigoto.workers.dev/">play now →</a>
 </td>
 <td align="center" width="25%">
-<h2>🧪 2,900+</h2>
+<h2>🧪 7,500+</h2>
 <b>automated tests</b><br/>
 <sub>Vitest + pytest</sub>
 </td>
@@ -97,25 +97,25 @@ I build projects with **real data** in Python, SQL and TypeScript: pipelines on 
 ### 📈 [Sentinela B3](https://github.com/Marcos-Felipe-dos-Santos/Sentinela-B3)
 
 ![Python](https://img.shields.io/badge/Python_3.13-3776AB?style=flat-square&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
-Analysis of **Brazilian stocks and REITs (B3)** using official CVM data, 4 classic valuation methods (Graham, Bazin, Lynch, Gordon) and technical analysis.
+Local platform to study **Brazilian stocks and REITs (B3)** with **official data** (CVM, B3, Central Bank, IBGE and Treasury), six documented valuation lenses and **point-in-time analysis** that only uses what was published on each date.
 
 <details>
 <summary><b>🔧 Technical highlights</b></summary>
 <br/>
 
-- **5-source cascade** with automatic fallback (CVM → brapi → yfinance → Fundamentus → Central Bank)
-- **Per-source confidence score** with inline badge (🟢🟡🔴)
-- Live macro data: **Selic, CDI, IPCA, NTN-B** (Central Bank + Treasury APIs)
-- RSI, MACD, Bollinger Bands and interactive candlesticks
-- **255 tests** with no network traffic
+- **Point in time:** `analisar(ticker, as_of)` answers with what was known on that date
+- **Six separate lenses** (Graham, Bazin, Lynch, Gordon, REIT and Banks): each shows its value and assumptions or explains why it abstained
+- **Ingestion with provenance** (publication date and version) into a single SQLite database with migrations
+- **Point-in-time backtest** with total return and a universe that includes delisted companies
+- **5,000+ tests**, behavior golden set, mutation testing and CI
 
 </details>
 
-`255 tests` · `Educational, not financial advice`
+`5,000+ tests` · `Educational, not financial advice`
 
 </td>
 <td valign="top" width="50%">
@@ -173,7 +173,7 @@ A **local-first** personal knowledge engine: turns unstructured text into struct
 
 </details>
 
-`55 commits` · `Experimental alpha`
+`CI` · `Experimental alpha`
 
 </td>
 <td valign="top" width="50%">
