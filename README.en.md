@@ -294,19 +294,9 @@ A **local-first** assistant for Brazilian income tax filing (IRPF): parses PDFs 
 
 How a spoken sentence becomes a spoken answer — all running **on my own machine, no cloud required**:
 
-```mermaid
-flowchart LR
-    A([🎤 Microphone]) --> B[Silero VAD<br/>detects speech]
-    B --> C[WhisperX<br/>speech → text]
-    C --> D{Llama 3<br/>via Ollama}
-    E[(ChromaDB<br/>semantic memory)] <-->|RAG| D
-    D -->|function calling| F[⚙️ PC actions]
-    D --> G[👁️ Multimodal<br/>vision]
-    D --> H[Kokoro TTS<br/>text → speech]
-    H --> I([🔊 Answer in pt-BR])
-    D -.->|optional fallback| J[☁️ Gemini]
-    D --> K[📊 Dashboard<br/>FastAPI + WebSocket]
-```
+<div align="center">
+  <a href="https://github.com/Marcos-Felipe-dos-Santos/Nina-IA"><img width="100%" src="assets/nina-pipeline.en.svg" alt="Nina IA pipeline" /></a>
+</div>
 
 ---
 

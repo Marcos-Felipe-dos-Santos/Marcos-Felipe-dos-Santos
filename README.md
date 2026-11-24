@@ -294,19 +294,9 @@ Apoio **local-first** à declaração de IRPF: lê PDFs (notas de corretagem, in
 
 Como uma frase falada vira uma resposta por voz — tudo rodando **na minha máquina, sem nuvem**:
 
-```mermaid
-flowchart LR
-    A([🎤 Microfone]) --> B[Silero VAD<br/>detecta fala]
-    B --> C[WhisperX<br/>voz → texto]
-    C --> D{Llama 3<br/>via Ollama}
-    E[(ChromaDB<br/>memória semântica)] <-->|RAG| D
-    D -->|function calling| F[⚙️ Ações no PC]
-    D --> G[👁️ Visão<br/>multimodal]
-    D --> H[Kokoro TTS<br/>texto → voz]
-    H --> I([🔊 Resposta em pt-BR])
-    D -.->|fallback opcional| J[☁️ Gemini]
-    D --> K[📊 Dashboard<br/>FastAPI + WebSocket]
-```
+<div align="center">
+  <a href="https://github.com/Marcos-Felipe-dos-Santos/Nina-IA"><img width="100%" src="assets/nina-pipeline.svg" alt="Pipeline da Nina IA" /></a>
+</div>
 
 ---
 
@@ -363,11 +353,6 @@ Suporte em **ambiente hospitalar crítico** (Hospital Albert Einstein).
 <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/Marcos-Felipe-dos-Santos/Sentinela-B3/pull/29) in [Marcos-Felipe-dos-Santos/Sentinela-B3](https://github.com/Marcos-Felipe-dos-Santos/Sentinela-B3)
-2. 💪 Opened PR [#29](https://github.com/Marcos-Felipe-dos-Santos/Sentinela-B3/pull/29) in [Marcos-Felipe-dos-Santos/Sentinela-B3](https://github.com/Marcos-Felipe-dos-Santos/Sentinela-B3)
-3. 🎉 Merged PR [#28](https://github.com/Marcos-Felipe-dos-Santos/Sentinela-B3/pull/28) in [Marcos-Felipe-dos-Santos/Sentinela-B3](https://github.com/Marcos-Felipe-dos-Santos/Sentinela-B3)
-4. 💪 Opened PR [#28](https://github.com/Marcos-Felipe-dos-Santos/Sentinela-B3/pull/28) in [Marcos-Felipe-dos-Santos/Sentinela-B3](https://github.com/Marcos-Felipe-dos-Santos/Sentinela-B3)
-5. 🎉 Merged PR [#27](https://github.com/Marcos-Felipe-dos-Santos/Sentinela-B3/pull/27) in [Marcos-Felipe-dos-Santos/Sentinela-B3](https://github.com/Marcos-Felipe-dos-Santos/Sentinela-B3)
 <!--END_SECTION:activity-->
 
 </details>
