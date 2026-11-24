@@ -336,6 +336,16 @@ Suporte em **ambiente hospitalar crítico** (Hospital Albert Einstein).
 
 ## 📊 Atividade
 
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Marcos-Felipe-dos-Santos/Marcos-Felipe-dos-Santos/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Marcos-Felipe-dos-Santos/Marcos-Felipe-dos-Santos/output/github-snake.svg" />
+  <img alt="Cobrinha comendo minhas contribuições" src="https://raw.githubusercontent.com/Marcos-Felipe-dos-Santos/Marcos-Felipe-dos-Santos/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
 <details>
 <summary><b>⚡ O que estou fazendo agora</b> <sub>(atualizado automaticamente)</sub></summary>
 <br/>
