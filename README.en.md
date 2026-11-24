@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════  HEADER  ═══════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7F5AF0&height=140&section=header&text=Marcos%20Felipe&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Local-First%20AI%20%C2%B7%20Data%20%C2%B7%20Automation&descAlignY=60&descSize=16&animation=fadeIn" alt="Marcos Felipe" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7F5AF0&height=140&section=header&text=Marcos%20Felipe&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20%C2%B7%20BI%20%C2%B7%20Automation&descAlignY=60&descSize=16&animation=fadeIn" alt="Marcos Felipe" />
 
 <div align="center">
 
@@ -7,7 +7,7 @@
 <a href="README.en.md"><img src="https://img.shields.io/badge/🇺🇸_English-selected-7F5AF0?style=flat-square" alt="English" /></a>
 
 <a href="https://github.com/Marcos-Felipe-dos-Santos">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=580&lines=Hi%2C+I'm+Marcos+Felipe+%F0%9F%91%8B;Computer+Science+student;Service+Desk+%40+Callix;Local-First+AI+%C2%B7+RAG+%C2%B7+Agents;Python+%C2%B7+TypeScript+%C2%B7+SQL;Based+in+S%C3%A3o+Paulo+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=580&lines=Hi%2C+I'm+Marcos+Felipe+%F0%9F%91%8B;Computer+Science+student;Service+Desk+%40+Callix;Data+%C2%B7+BI+%C2%B7+Automation;Python+%C2%B7+SQL+%C2%B7+Power+BI;Based+in+S%C3%A3o+Paulo+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -31,12 +31,12 @@
 <a href="https://f1-fantasy-sala.marcosfeliperigoto.workers.dev/">play now →</a>
 </td>
 <td align="center" width="25%">
-<h2>🧪 1,400+</h2>
+<h2>🧪 2,900+</h2>
 <b>automated tests</b><br/>
 <sub>Vitest + pytest</sub>
 </td>
 <td align="center" width="25%">
-<h2>🤖 7</h2>
+<h2>🤖 12</h2>
 <b>public projects</b><br/>
 <sub>local AI, data, games</sub>
 </td>
@@ -52,19 +52,15 @@
 
 ## ⚡ About me
 
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=Marcos-Felipe-dos-Santos&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=10" alt="GitHub Stats" />
+**Computer Science** student with a background in **mission-critical technical support** and a focus on **data, BI and automation**. I currently work in support at **Callix** — a Brazilian cloud call center platform used by **800+ companies**, handling **15+ million calls and messages a day**.
 
-**Computer Science** student with a background in **mission-critical technical support** and a passion for **applied AI, automation and data**. I'm currently on the **Service Desk team at Callix** — a cloud contact center platform that has processed **over 1 billion calls**.
+I build projects with **real data** in Python, SQL and TypeScript: pipelines on official data from CVM, B3 and the Brazilian Central Bank, data extraction from financial PDFs, automations and local AI applications.
 
-I build **local-first** projects with Python and TypeScript: voice assistants with RAG, financial analysis engines, deterministic simulation games and AI-powered productivity tools.
-
-- 🔭 Current focus: **local AI, RAG and agents**
-- 🌱 Learning: **Data Engineering** and **advanced TypeScript**
+- 🔭 Current focus: **Data Analysis, BI and Automation**
+- 🌱 Learning: **advanced SQL**, **Power BI (modeling and DAX)** and **Data Engineering**
 - 🤖 Pair programming with **Claude Code** — AI makes writing code faster; **architecture, domain design and testing are my decisions**
 
 > 💡 **Principle:** systems must be reliable, documented and resilient — learned hands-on in hospital IT, where a system cannot go down.
-
-<br clear="right"/>
 
 ---
 
@@ -98,35 +94,6 @@ I build **local-first** projects with Python and TypeScript: voice assistants wi
 <tr>
 <td valign="top" width="50%">
 
-### 🏎️ [Paddock Draft](https://github.com/Marcos-Felipe-dos-Santos/F1-fantasy)
-
-<a href="https://f1-fantasy-sala.marcosfeliperigoto.workers.dev/"><img src="https://img.shields.io/badge/🎮_PLAY_NOW-online_and_free-E10600?style=for-the-badge" alt="Play now" /></a>
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
-
-A browser-based **Formula 1 draft and simulation game**. Build a "frankenstein car" from parts spanning **76 seasons (1950–2025)** and race an **online championship with up to 22 friends**.
-
-<details>
-<summary><b>🔧 Technical highlights</b></summary>
-<br/>
-
-- **Multiplayer in production** on Cloudflare Workers + Durable Objects
-- Reconnection tokens, version handshake and a **divergence detector** across clients
-- **100% deterministic** engine — no `Math.random()`, everything runs on seeded RNG (survives server restarts)
-- **1,094 tests** with Vitest + **mutation testing**
-- **771 team/year combinations** built from real historical data (Jolpica-F1 API)
-- Custom **balance harness** for large-scale simulation
-
-</details>
-
-`In production` · `Up to 22 players` · `5-stage championship`
-
-</td>
-<td valign="top" width="50%">
-
 ### 📈 [Sentinela B3](https://github.com/Marcos-Felipe-dos-Santos/Sentinela-B3)
 
 ![Python](https://img.shields.io/badge/Python_3.13-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -149,6 +116,35 @@ Analysis of **Brazilian stocks and REITs (B3)** using official CVM data, 4 class
 </details>
 
 `255 tests` · `Educational, not financial advice`
+
+</td>
+<td valign="top" width="50%">
+
+### 🏎️ [Paddock Draft](https://github.com/Marcos-Felipe-dos-Santos/F1-fantasy)
+
+<a href="https://f1-fantasy-sala.marcosfeliperigoto.workers.dev/"><img src="https://img.shields.io/badge/🎮_PLAY_NOW-online_and_free-E10600?style=for-the-badge" alt="Play now" /></a>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+
+A browser-based **Formula 1 draft and simulation game**. Build a "frankenstein car" from parts spanning **76 seasons (1950–2025)** and race an **online championship with up to 22 friends**.
+
+<details>
+<summary><b>🔧 Technical highlights</b></summary>
+<br/>
+
+- **Multiplayer in production** on Cloudflare Workers + Durable Objects
+- Reconnection tokens, version handshake and a **divergence detector** across clients
+- **100% deterministic** engine — no `Math.random()`, everything runs on seeded RNG (survives server restarts)
+- **2,358 + 48 tests** with Vitest + **mutation testing**
+- **771 team/year combinations** built from real historical data (Jolpica-F1 API)
+- Custom **balance harness** for large-scale simulation
+
+</details>
+
+`In production` · `Up to 22 players` · `5-stage championship`
 
 </td>
 </tr>
@@ -290,6 +286,13 @@ A **local-first** assistant for Brazilian income tax filing (IRPF): parses PDFs 
 
 ---
 
+### ➕ More projects
+
+- 🚇 [MetrôBot SP](https://github.com/Marcos-Felipe-dos-Santos/Metr-Bot-SP) — São Paulo subway route planner with BFS/DFS, first-order logic and LLM narration · `146 tests`
+- ⚽ [placar-futebol](https://github.com/Marcos-Felipe-dos-Santos/placar-futebol) — live football scoreboard designed to fit in 100 API requests per day (Cloudflare Worker + KV)
+
+---
+
 ## 🧩 Inside Nina IA
 
 How a spoken sentence becomes a spoken answer — all running **on my own machine, no cloud required**:
@@ -306,7 +309,7 @@ How a spoken sentence becomes a spoken answer — all running **on my own machin
 <summary><b>🟢 Callix · Service Desk</b> &nbsp;—&nbsp; <code>Jun 2025 – Present</code></summary>
 <br/>
 
-Cloud **contact center SaaS** (voice, WhatsApp, SMS) with **over 1 billion calls processed**.
+Brazilian **cloud call center platform** (Voice, Dialer, official WhatsApp and Reverse IVR) used by **800+ companies**, handling **15+ million calls and messages a day**.
 
 - Tier 1/Tier 2 support for platform users
 - VoIP, omnichannel and SaaS systems support
@@ -331,30 +334,11 @@ Support in a **mission-critical hospital environment** (Hospital Albert Einstein
 
 ---
 
-## 📊 Activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Felipe-dos-Santos&layout=compact&theme=tokyonight&langs_count=6&hide_border=true&border_radius=10" alt="Top languages" />
-<img height="170" src="https://streak-stats.demolab.com?user=Marcos-Felipe-dos-Santos&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Marcos-Felipe-dos-Santos/Marcos-Felipe-dos-Santos/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Marcos-Felipe-dos-Santos/Marcos-Felipe-dos-Santos/output/github-snake.svg" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Marcos-Felipe-dos-Santos/Marcos-Felipe-dos-Santos/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
 <div align="center">
 
 ### 📫 Let's talk
 
-Happy to chat about **data, AI and automation**.
+Happy to chat about **Data, BI and Automation**.
 
 <a href="https://www.linkedin.com/in/marcos-felipe-dos-santos/"><img src="https://img.shields.io/badge/LinkedIn-Marcos_Felipe-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:marcosfelipedossantos@hotmail.com"><img src="https://img.shields.io/badge/Email-marcosfelipedossantos%40hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
