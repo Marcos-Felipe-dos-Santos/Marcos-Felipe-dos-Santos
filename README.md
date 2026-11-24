@@ -3,6 +3,9 @@
 
 <div align="center">
 
+<a href="README.md"><img src="https://img.shields.io/badge/🇧🇷_Português-selecionado-00D9FF?style=flat-square" alt="Português" /></a>
+<a href="README.en.md"><img src="https://img.shields.io/badge/🇺🇸_English-read_in_English-7F5AF0?style=flat-square" alt="English" /></a>
+
 <a href="https://github.com/Marcos-Felipe-dos-Santos">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=580&lines=Ol%C3%A1%2C+eu+sou+o+Marcos+Felipe+%F0%9F%91%8B;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Service+Desk+%40+Callix;IA+Local-First+%C2%B7+RAG+%C2%B7+Agentes;Python+%C2%B7+TypeScript+%C2%B7+SQL;De+S%C3%A3o+Paulo+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" />
 </a>
@@ -18,11 +21,40 @@
 
 ---
 
+### ⏱️ Resumo em 30 segundos
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+<h2>🎮 1</h2>
+<b>jogo multiplayer<br/>em produção</b><br/>
+<a href="https://f1-fantasy-sala.marcosfeliperigoto.workers.dev/">jogue agora →</a>
+</td>
+<td align="center" width="25%">
+<h2>🧪 1.400+</h2>
+<b>testes automatizados</b><br/>
+<sub>Vitest + pytest</sub>
+</td>
+<td align="center" width="25%">
+<h2>🤖 7</h2>
+<b>projetos públicos</b><br/>
+<sub>IA local, dados, jogos</sub>
+</td>
+<td align="center" width="25%">
+<h2>🏥 3+</h2>
+<b>anos em suporte crítico</b><br/>
+<sub>TI hospitalar e SaaS</sub>
+</td>
+</tr>
+</table>
+
+---
+
 ## ⚡ Sobre mim
 
 <img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=Marcos-Felipe-dos-Santos&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=10" alt="GitHub Stats" />
 
-Estudante de **Ciência da Computação** com 2+ anos de experiência em **suporte técnico crítico** e paixão por **IA aplicada, automação e dados**. Hoje estou no time de **Service Desk da Callix** — plataforma de contact center na nuvem com mais de **1 bilhão de chamadas processadas**.
+Estudante de **Ciência da Computação** com experiência em **suporte técnico crítico** e paixão por **IA aplicada, automação e dados**. Hoje estou no time de **Service Desk da Callix** — plataforma de contact center na nuvem com mais de **1 bilhão de chamadas processadas**.
 
 Construo projetos **local-first** com Python e TypeScript: assistentes de voz com RAG, motores de análise financeira, jogos de simulação determinística e ferramentas de produtividade com IA.
 
@@ -40,7 +72,7 @@ Construo projetos **local-first** com Python e TypeScript: assistentes de voz co
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,ts,react,fastapi,sqlite,vite,githubactions,git,vscode&perline=9" alt="Stack principal" />
+<img src="https://skillicons.dev/icons?i=python,ts,react,fastapi,sqlite,vite,githubactions,cloudflare,git&perline=9" alt="Stack principal" />
 
 <br/><br/>
 
@@ -66,29 +98,31 @@ Construo projetos **local-first** com Python e TypeScript: assistentes de voz co
 <tr>
 <td valign="top" width="50%">
 
-### 🏎️ [F1 Fantasy](https://github.com/Marcos-Felipe-dos-Santos/F1-fantasy)
+### 🏎️ [Paddock Draft](https://github.com/Marcos-Felipe-dos-Santos/F1-fantasy)
+
+<a href="https://f1-fantasy-sala.marcosfeliperigoto.workers.dev/"><img src="https://img.shields.io/badge/🎮_JOGAR_AGORA-online_e_gratuito-E10600?style=for-the-badge" alt="Jogar agora" /></a>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
-![MIT](https://img.shields.io/badge/MIT-green?style=flat-square)
 
-Jogo de navegador de **draft e simulação de Fórmula 1**. Monte um "carro frankenstein" com peças de **76 temporadas (1950–2025)** e corra contra 21 rivais volta a volta.
+Jogo de **draft e simulação de Fórmula 1** no navegador. Monte um "carro frankenstein" com peças de **76 temporadas (1950–2025)** e dispute um campeonato **online com até 22 amigos**.
 
 <details>
 <summary><b>🔧 Destaques técnicos</b></summary>
 <br/>
 
-- Engine **100% determinística** — zero `Math.random()`, tudo via RNG semeado
-- **1094 testes** com Vitest
+- **Multiplayer em produção** com Cloudflare Workers + Durable Objects
+- Tokens de reconexão, handshake de versão e **detector de divergência** entre clientes
+- Engine **100% determinística** — zero `Math.random()`, tudo via RNG semeado (sobrevive a reinícios do servidor)
+- **1094 testes** com Vitest + **testes de mutação**
 - **771 combinações** de equipe/ano a partir de dados reais (API Jolpica-F1)
-- Engine (TypeScript puro) e UI (React) **separadas de verdade**
 - **Balance harness** próprio para simulação em massa
-- 10 pistas com **silhuetas SVG geradas por geometria**
 
 </details>
 
-`226 commits` · `Single · Local · Campeonato`
+`Em produção` · `Até 22 jogadores` · `Campeonato em 5 etapas`
 
 </td>
 <td valign="top" width="50%">
@@ -169,7 +203,7 @@ Assistente de voz **local-first**: ouve, pensa, lembra, executa ações no PC e 
 
 </details>
 
-`CI/CD` · `Dashboard em tempo real`
+`CI/CD` · `Arquitetura logo abaixo ↓`
 
 </td>
 </tr>
@@ -256,6 +290,26 @@ Apoio **local-first** à declaração de IRPF: lê PDFs (notas de corretagem, in
 
 ---
 
+## 🧩 Por dentro da Nina IA
+
+Como uma frase falada vira uma resposta por voz — tudo rodando **na minha máquina, sem nuvem**:
+
+```mermaid
+flowchart LR
+    A([🎤 Microfone]) --> B[Silero VAD<br/>detecta fala]
+    B --> C[WhisperX<br/>voz → texto]
+    C --> D{Llama 3<br/>via Ollama}
+    E[(ChromaDB<br/>memória semântica)] <-->|RAG| D
+    D -->|function calling| F[⚙️ Ações no PC]
+    D --> G[👁️ Visão<br/>multimodal]
+    D --> H[Kokoro TTS<br/>texto → voz]
+    H --> I([🔊 Resposta em pt-BR])
+    D -.->|fallback opcional| J[☁️ Gemini]
+    D --> K[📊 Dashboard<br/>FastAPI + WebSocket]
+```
+
+---
+
 ## 💼 Experiência
 
 <details open>
@@ -303,6 +357,15 @@ Suporte em **ambiente hospitalar crítico** (Hospital Albert Einstein).
 </picture>
 
 </div>
+
+<details>
+<summary><b>⚡ O que estou fazendo agora</b> <sub>(atualizado automaticamente)</sub></summary>
+<br/>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
 
 ---
 
