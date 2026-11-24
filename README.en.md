@@ -334,6 +334,20 @@ Support in a **mission-critical hospital environment** (Hospital Albert Einstein
 
 ---
 
+## 📊 Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Marcos-Felipe-dos-Santos/Marcos-Felipe-dos-Santos/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Marcos-Felipe-dos-Santos/Marcos-Felipe-dos-Santos/output/github-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Marcos-Felipe-dos-Santos/Marcos-Felipe-dos-Santos/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
 <div align="center">
 
 ### 📫 Let's talk
