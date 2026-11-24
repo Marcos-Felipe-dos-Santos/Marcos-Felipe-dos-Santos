@@ -31,7 +31,7 @@
 <a href="https://f1-fantasy-sala.marcosfeliperigoto.workers.dev/">jogue agora →</a>
 </td>
 <td align="center" width="25%">
-<h2>🧪 2.900+</h2>
+<h2>🧪 7.500+</h2>
 <b>testes automatizados</b><br/>
 <sub>Vitest + pytest</sub>
 </td>
@@ -97,25 +97,25 @@ Construo projetos com **dados reais** em Python, SQL e TypeScript: pipelines com
 ### 📈 [Sentinela B3](https://github.com/Marcos-Felipe-dos-Santos/Sentinela-B3)
 
 ![Python](https://img.shields.io/badge/Python_3.13-3776AB?style=flat-square&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
-Análise de **ações e FIIs da B3** com dados oficiais da CVM, 4 métodos clássicos de valuation (Graham, Bazin, Lynch, Gordon) e análise técnica.
+Plataforma local para estudar **ações e FIIs da B3** com **dados oficiais** (CVM, B3, BCB, IBGE e Tesouro), seis lentes de valuation documentadas e análise **em datas passadas**, usando só o que estava publicado em cada data.
 
 <details>
 <summary><b>🔧 Destaques técnicos</b></summary>
 <br/>
 
-- **Cascata de 5 fontes** com fallback (CVM → brapi → yfinance → Fundamentus → BCB)
-- **Score de confiança** por fonte com badge inline (🟢🟡🔴)
-- Macro ao vivo: **Selic, CDI, IPCA, NTN-B** (BCB + Tesouro Direto)
-- RSI, MACD, Bollinger e candlestick interativo
-- **255 testes** sem tráfego de rede
+- **Ponto no tempo:** `analisar(ticker, as_of)` responde com o que se sabia naquela data
+- **Seis lentes separadas** (Graham, Bazin, Lynch, Gordon, FII e Bancos): cada uma mostra valor e premissas ou diz por que se absteve
+- **Ingestão com proveniência** (data de publicação e versão) num SQLite único com migrações
+- **Backtest ponto no tempo** com retorno total e universo que inclui empresas deslistadas
+- **Mais de 5.000 testes**, golden de comportamento, teste de mutação e CI
 
 </details>
 
-`255 testes` · `Educacional, não é recomendação`
+`5.000+ testes` · `Educacional, não é recomendação`
 
 </td>
 <td valign="top" width="50%">
@@ -173,7 +173,7 @@ Motor **local-first** de conhecimento pessoal: transforma texto solto em dados e
 
 </details>
 
-`55 commits` · `Alpha experimental`
+`CI` · `Alpha experimental`
 
 </td>
 <td valign="top" width="50%">
